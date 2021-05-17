@@ -16,3 +16,4 @@ function titleCase(str) {
   return str.toLowerCase().split(" ").map(function(x) {let a = x[0].toUpperCase(); let b = x.slice(1); return a+b}).join(" ");
 }
 console.log(titleCase("I'm a little tea pot"));
+ 
