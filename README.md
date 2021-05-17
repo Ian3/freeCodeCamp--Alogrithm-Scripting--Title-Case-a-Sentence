@@ -1,6 +1,6 @@
 # freeCodeCamp--Alogrithm-Scripting--Title-Case-a-Sentence
 
-CHALLENGE
+CHALLENGE <br />
 Return the provided string with the first letter of each word capitalized. Make sure the rest of the word is in lower case.
 
 
